@@ -1,0 +1,13 @@
+.content h1
+{
+    font-size: 48px;
+    font-weight: bolder;
+}
+button
+{
+    background-color:blue ;
+}
+button:hover
+{
+    background-color: green;
+}
